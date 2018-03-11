@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BOUN-ETM58D/pj-tarkanacikelim/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Example Progress Journal
+## Week 5 ( MArch 11)
+
++[Here](files/journal_example.html) is my 1 interesting R example.
 
 - Bulleted
 - List
