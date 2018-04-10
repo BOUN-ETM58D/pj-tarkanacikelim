@@ -18,5 +18,5 @@
 
 #Examples
 
-+[Here](/file:///D:/Users/SUUSER/Desktop/examples.html ) are 10 ways to optimize supply chain operations using SQL and R Services.
++[Here](/examples.html ) are 10 ways to optimize supply chain operations using SQL and R Services.
 
