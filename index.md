@@ -18,5 +18,5 @@
 
 #Examples
 
-+[Here](/https://www.microsoft.com/itshowcase/Article/Content/865/Top-10-ways-SQL-Server-R-Services-helps-to-optimize-supply-chain-operations) are 10 ways to optimize supply chain operations using SQL and R Services.
++[Here](/file:///D:/Users/SUUSER/Desktop/deneme.html) are 10 ways to optimize supply chain operations using SQL and R Services.
 
