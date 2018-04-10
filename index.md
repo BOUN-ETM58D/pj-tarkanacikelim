@@ -5,12 +5,12 @@
 
 
 
-##Week 5 ( MArch 11)
+## Week 5 ( MArch 11)
 
-#**Assignment1**
+### **Assignment1**
 
 
 
-#Examples
+#### Examples
 
 +[Here](examples1.html) are 10 ways to optimize supply chain operations using SQL and R Services.
