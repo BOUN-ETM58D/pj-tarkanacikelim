@@ -5,7 +5,7 @@
 
 
 
-## Week 5 ( MArch 11)
+## Week 5 ( March 11)
 
 ### **Assignment1**
 
