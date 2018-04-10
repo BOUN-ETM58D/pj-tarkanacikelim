@@ -13,4 +13,4 @@
 
 #Examples
 
-+[Here](files/examples.html  ) are 10 ways to optimize supply chain operations using SQL and R Services.
++[Here]( pj-tarkanacikelim/examples1.html   ) are 10 ways to optimize supply chain operations using SQL and R Services.
