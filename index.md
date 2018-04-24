@@ -20,4 +20,4 @@
 
 ### **Assignment2 - OSYM**
 
-+[Here](osym.html) is my analysis about OSYM 2017 Data.
++[Here](osym1.html) is my analysis about OSYM 2017 Data.
