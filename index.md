@@ -22,6 +22,10 @@
 
 +[Here](examples2.html) are 10 ways to optimize supply chain operations using SQL and R Services.
 
+### TERM Project For ETM 591
+
+
++[Here](Project.html) is our term project about Statistical Football Modelling.
 
 
 
